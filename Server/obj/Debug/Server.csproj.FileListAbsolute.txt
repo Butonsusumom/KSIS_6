@@ -1,0 +1,13 @@
+D:\KSaN\Lab6\src\Server\bin\Debug\Server.exe.config
+D:\KSaN\Lab6\src\Server\bin\Debug\Server.exe
+D:\KSaN\Lab6\src\Server\bin\Debug\Server.pdb
+D:\KSaN\Lab6\src\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\KSaN\Lab6\src\Server\obj\Debug\Server.exe
+D:\KSaN\Lab6\src\Server\obj\Debug\Server.pdb
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\bin\Debug\Server.exe.config
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\bin\Debug\Server.exe
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\bin\Debug\Server.pdb
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\obj\Debug\Server.exe
+C:\Users\Ksusha\Downloads\Telegram Desktop\Lab6\src\Server\obj\Debug\Server.pdb
